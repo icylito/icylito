@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hey, I'm Yahya 👋
 
-<!--
-**icylito/icylito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS & AI graduate based in Muscat, Oman. I build things at the intersection of AI systems and practical software — currently fine-tuning an LLM specialized in math and research reasoning with a persona layer so it doesn't feel robotic.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+
+- 🧠 Fine-tuning a specialized LLM (math, research, reasoning modes) using QLoRA on Qwen3
+- 🤖 Building and experimenting with multi-agent orchestration systems
+- 📦 Publishing datasets and model experiments on Hugging Face
+
+---
+
+## Stack
+
+**Languages**
+Python · JavaScript · TypeScript
+
+**AI & Inference**
+Ollama · Hugging Face · (learning PyTorch & LangChain)
+
+**Frontend**
+React
+
+**Backend & Database**
+Supabase · Node.js
+
+**Dev Tools**
+VS Code · Git · Docker
+
+---
+
+## Find Me
+
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-icylito-yellow?logo=huggingface)](https://huggingface.co/icylito)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yahya%20Faisal-blue?logo=linkedin)](https://www.linkedin.com/in/yahya-faisal-32067139a)
+
+---
+
+*Building quietly. Posting when it's ready.*
