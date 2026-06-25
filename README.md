@@ -1,6 +1,6 @@
 # Hey, I'm Yahya 👋
 
-CS & AI graduate based in Muscat, Oman. I build things at the intersection of AI systems and practical software, currently fine-tuning an LLM specialized in math and research reasoning with a persona layer so it has personality and feel human like.
+CS AI graduate based in Muscat, Oman. I build things at the intersection of AI systems and practical software, currently fine-tuning an LLM specialized in math and research reasoning with a persona layer so it has personality and feel human like.
 
 ---
 
