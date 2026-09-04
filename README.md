@@ -25,7 +25,7 @@ VS Code · Git · Docker
 
 ## Find Me
 
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-icylito-yellow?logo=huggingface)](https://huggingface.co/icylito)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-icylito-yellow?logo=huggingface)](https://huggingface.co/Yahya-faisal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yahya%20Faisal-blue?logo=linkedin)](https://www.linkedin.com/in/yahya-faisal-32067139a)
 
 ---
